@@ -34,8 +34,10 @@ ingest (public APIs / synthetic files) → deterministic checks/scoring → LLM 
 - [ ] Market map filled in (`docs/MARKET_MAP.md`)
 - [ ] Build the one demo workflow (core logic + tests)
 - [ ] Streamlit UI for the demo
-- [ ] Record 2-min demo / prep pitch (business + code are judged equally)
-- [ ] Submit via the organisers' Saturday process (not yet announced)
+- [ ] Use all four required sponsor tools (prize eligibility): NicrronNinoo, PRISM by Block Convey, akta.pro (Wokelo Akta API), Roundtable
+- [ ] Deploy a live demo URL
+- [ ] Record demo video (3 min or less)
+- [ ] Submit on Devpost (https://nyc-vc-hack.devpost.com) by 4:00 PM ET Oct 24: name/description, track, founder brief, tools used, repo link, live demo link, video
 
 ## Demo plan
 Drop the synthetic data room in, get red flags in <60s, each linked to the file/cell that triggered it, plus a 1-page memo.
